@@ -1,5 +1,4 @@
 # Visual QA for Remote Sensing Images
-Dataset link : https://rsvqa.sylvainlobry.com/#dataset
 
 # Introduction
 
@@ -16,3 +15,10 @@ Layered architecture with feature extraction, fusion, and prediction components.
 Easy integration with remote sensing datasets for model training.
 
 Enhance accessibility and understanding of geospatial data.
+
+# Dataset
+
+dataset can't be loaded in this GitHub repo due to space constarints.
+
+The dataset can be accessed from the below link: https://rsvqa.sylvainlobry.com/ 
+
