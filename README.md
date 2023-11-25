@@ -8,7 +8,11 @@ Our deep learning solution uses a Visual Question Answering (VQA) model to addre
 Key Features:
 
 Open-ended question answering for remote sensing images.
+
 Utilizes low and high-resolution datasets for diverse applications.
+
 Layered architecture with feature extraction, fusion, and prediction components.
+
 Easy integration with remote sensing datasets for model training.
+
 Enhance accessibility and understanding of geospatial data.
