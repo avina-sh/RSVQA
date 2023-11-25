@@ -18,7 +18,7 @@ Enhance accessibility and understanding of geospatial data.
 
 # Dataset
 
-dataset can't be loaded in this GitHub repo due to space constarints.
+dataset can't be loaded in this GitHub repo due to space constraints.
 
 The dataset can be accessed from the below link: https://rsvqa.sylvainlobry.com/ 
 
